@@ -1,19 +1,25 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Vanderbilt University Medical Center
+  position: Product Manager
+  duration: 2021 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Led the technical ownership of a complex portfolio of systems across research, clinical, and administrative departments.</li><li>Successfully developed data integrations between various platforms, showcasing expertise in low-code solutions.</li><li>Implemented robotic process automation with Power Automate, leading to significant time and cost savings.</li><li>Developed and managed custom applications for Kahua PMIS using kBuilder.</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: St. Jude Children's Research Hospital
+  position: HRIS Programmer Specialist
+  duration:  2020 &mdash; 2021
+  summary: <ul class="resume-item-list"><li>Developed and maintained HRIS solutions encompassing web, ETL, and reporting facets.</li><li>Played a pivotal role in COVID-19 response by developing ETL and custom dashboard solutions for testing and vaccination efforts.</li><li>Enhanced the development lifecycle by establishing deployment pipelines in Azure DevOps.</li><li>Developed architectural roadmap for Azure migration.</li></ul>
 
+- company: St. Jude Children's Research Hospital
+  position: Full Stack Developer
+  duration:   2019  &mdash; 2020
+  summary: <ul class="resume-item-list"><li>Served as full stack developer for the St. Jude Cloud genomics platform in an agile environment.</li><li>Directed the architecture and development of the St. Jude Cloud homepage redesign.</li><li>Optimized data browsing based on user feedback and automated deployment workflows using GitHub Actions and Azure.</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: St. Jude Children's Research Hospital
+  position: Senior Applications Analyst
+  duration:  2016 &mdash; 2019 
+  summary: <ul class="resume-item-list"><li>Pioneered the development and implementation lifecycle of various systems for the Graduate School of Biomedical Sciences. </li><li>Engaged with diverse stakeholders, from researchers to executives, ensuring alignment with the institution's goals. </li><li>Showcased proficiency in low-code platforms by developing data collection forms and automating workflows. </li></ul>
+
+- company: St. Jude Children's Research Hospital
+  position: Database/Project Analyst
+  duration:  2012 &mdash; 2016
+  summary: <ul class="resume-item-list"><li>Managed and streamlined IT projects and systems for the Academic Programs department. </li><li>Successfully navigated challenges to migrate to Microsoft Dynamics CRM within an expedited timeline. </li><li>Facilitated strategic planning and process documentation, emphasizing user requirements and process improvements using technology. </li><li></li></ul>
